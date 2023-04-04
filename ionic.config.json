@@ -1,0 +1,7 @@
+{
+  "name": "aplicativo de acessibilidade educacional",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
